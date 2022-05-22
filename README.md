@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omerzekvan
-- 👀 I’m interested in 5G, Network Orchestration, DevOps
+- 👀 I’m interested in 5G, VNF/CNF Orchestration, DevOps
 - 🌱 I’m currently learning K8s
 - 💞️ I’m open for collaborations.
 - 📫 You can reach me on zekvan@gmail.com
